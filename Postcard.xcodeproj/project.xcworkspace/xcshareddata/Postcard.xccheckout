@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6637FFDA-1D64-4527-BEBB-A4176A2B046B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Postcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE7B0187B664633CA89F33C0E048655D54113424</key>
+		<string>github.com:JustCarol/postcard-app.git</string>
+		<key>D39D0C88B0E971E807FB3E6F843C4ED2280B25F4</key>
+		<string>https://github.com/JustCarol/postcard-app-swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Postcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE7B0187B664633CA89F33C0E048655D54113424</key>
+		<string>../..</string>
+		<key>D39D0C88B0E971E807FB3E6F843C4ED2280B25F4</key>
+		<string>../..Postcard/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:JustCarol/postcard-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE7B0187B664633CA89F33C0E048655D54113424</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE7B0187B664633CA89F33C0E048655D54113424</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D39D0C88B0E971E807FB3E6F843C4ED2280B25F4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
